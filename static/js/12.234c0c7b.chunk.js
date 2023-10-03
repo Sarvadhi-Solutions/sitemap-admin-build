@@ -1,0 +1,2 @@
+(this["webpackJsonpZopto-Web"]=this["webpackJsonpZopto-Web"]||[]).push([[12],{1401:function(t,e,c){"use strict";c.r(e),c.d(e,"default",(function(){return h}));var n=c(1340),r=c(1328),i=c(99),s=c(128),a=c(436),b=c(0);function h(){var t=Object(s.a)().themeStretch;return Object(b.jsx)(i.a,{title:"General: App",children:Object(b.jsx)(n.a,{maxWidth:!t&&"xl",children:Object(b.jsx)(r.a,{item:!0,xs:12,lg:8,children:Object(b.jsx)(a.b,{})})})})}}}]);
+//# sourceMappingURL=12.234c0c7b.chunk.js.map
